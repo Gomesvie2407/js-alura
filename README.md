@@ -1,1 +1,3 @@
 # js-alura
+
+Js-alura está marcado com CC0 1.0. Para ver uma cópia desta licença, visite https://creativecommons.org/publicdomain/zero/1.0/
